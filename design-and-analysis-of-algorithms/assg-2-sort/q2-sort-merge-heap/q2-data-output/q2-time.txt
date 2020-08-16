@@ -1,0 +1,2 @@
+merge sort completed in 84.30ms
+heap sort completed in 120.02ms

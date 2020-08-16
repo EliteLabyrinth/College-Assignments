@@ -1,0 +1,11 @@
+Integer
+Invalid
+Float
+Invalid
+Invalid
+Invalid
+Float
+Invalid
+Invalid
+Invalid
+Integer
